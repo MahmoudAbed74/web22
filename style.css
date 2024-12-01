@@ -1,0 +1,14 @@
+
+
+div{
+    color:red;
+    background-color:rgbA(25,90,64,.7);
+    background-repeat:no-repeat ;
+    background-position: left top ;
+    background-attachment: scroll;
+
+    
+ height: 900px;
+ width: 600px;
+}
+
